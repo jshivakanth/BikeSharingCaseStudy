@@ -38,7 +38,8 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Conclusions
-- We have finalised a model with R2 score of 0.838.
+- We have finalised a model with R2 score of 0.815.
+- Model R2 value is 0.838 and F-statistic:	 is 234
 - The influencing Factors in the final Model with coefficients are 
     * const              0.337391
     * yr                 0.230896
